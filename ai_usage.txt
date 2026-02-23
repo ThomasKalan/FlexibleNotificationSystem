@@ -1,0 +1,4 @@
+I used AI to assist with understanding the project requirements,
+designing the class structure, and refining Java code and documentation.
+All generated content was reviewed, tested, and modified to ensure correctness
+and alignment with course requirements.
